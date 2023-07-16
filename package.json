@@ -1,0 +1,20 @@
+{
+  "name": "khome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merryvj/khome.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merryvj/khome/issues"
+  },
+  "homepage": "https://github.com/merryvj/khome#readme"
+}
